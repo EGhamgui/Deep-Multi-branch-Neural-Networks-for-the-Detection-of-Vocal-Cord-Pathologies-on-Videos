@@ -1,0 +1,4 @@
+1- Upload all complete cycles images and their binary masks to the drive. 
+2- Open the code 'Compute_performance_on_test_set.ipynb' on colab. 
+3- Import into session storage: Utils / Unet8 / INFO_subjects_out
+4- Run the code
